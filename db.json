@@ -2,29 +2,21 @@
 	"web": [
 		{ "name": "Web" },
 		{
-			"projects": [
-				{
-					"id": "to-do-list",
-					"name": "To-do list",
-					"description": "Descripción",
-					"technologies": ["HTML5", "CSS3", "Javascript", "PHP", "MySQL"],
-					"img": "img"
-				}
-			]
+			"id": "to-do-list",
+			"name": "To-do list",
+			"description": "Descripción",
+			"technologies": ["HTML5", "CSS3", "Javascript", "PHP", "MySQL"],
+			"img": "img"
 		}
 	],
 	"movil": [
 		{ "name": "Móvil" },
 		{
-			"projects": [
-				{
-					"id": "gottih",
-					"name": "Gottih",
-					"description": "Descripción",
-					"technologies": ["Unity", "C#", "Vuforia"],
-					"img": "https://avatars0.githubusercontent.com/u/39936759?s=460&v=4"
-				}
-			]
+			"id": "gottih",
+			"name": "Gottih",
+			"description": "Descripción",
+			"technologies": ["Unity", "C#", "Vuforia"],
+			"img": "https://avatars0.githubusercontent.com/u/39936759?s=460&v=4"
 		}
 	]
 }
