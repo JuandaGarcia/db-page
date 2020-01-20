@@ -9,7 +9,9 @@
 			"img_details": "https://juandagracia.com/img/juandagarcia-details.png",
 			"type": "Web",
 			"link": "https://juandagarcia.com",
-			"github_link": "https://github.com/JuandaGarcia/JuandaGarcia.com"
+			"github_link": "https://github.com/JuandaGarcia/JuandaGarcia.com",
+			"play_store": false,
+			"app_store": false
 		},
 		{
 			"id": "gottih",
@@ -20,7 +22,9 @@
 			"img_details": "https://juandagracia.com/img/gottih-web-details.png",
 			"type": "Web",
 			"link": "https://gottih.com",
-			"github_link": false
+			"github_link": false,
+			"play_store": false,
+			"app_store": false
 		},
 		{
 			"id": "platzi-badges",
@@ -31,7 +35,9 @@
 			"img_details": "https://juandagracia.com/img/platzi-badges-details.png",
 			"type": "Web",
 			"link": false,
-			"github_link": "https://github.com/JuandaGarcia/platzi-badges"
+			"github_link": "https://github.com/JuandaGarcia/platzi-badges",
+			"play_store": false,
+			"app_store": false
 		},
 		{
 			"id": "rick-and-morty",
@@ -42,7 +48,9 @@
 			"img_details": "https://juandagracia.com/img/rick-and-morty-details.png",
 			"type": "Web",
 			"link": false,
-			"github_link": "https://github.com/JuandaGarcia/MemoryGame"
+			"github_link": "https://github.com/JuandaGarcia/MemoryGame",
+			"play_store": false,
+			"app_store": false
 		},
 		{
 			"id": "eclectica",
@@ -53,7 +61,9 @@
 			"img_details": "https://juandagracia.com/img/eclectica-details.png",
 			"type": "Web",
 			"link": "http://eclecticaweb.000webhostapp.com/",
-			"github_link": "https://github.com/JuandaGarcia/eclectica"
+			"github_link": "https://github.com/JuandaGarcia/eclectica",
+			"play_store": false,
+			"app_store": false
 		},
 		{
 			"id": "artistic-makeup",
@@ -64,7 +74,9 @@
 			"img_details": "https://juandagracia.com/img/artistic-makeup-datails.png",
 			"type": "Web",
 			"link": "http://artisticmakeup.000webhostapp.com/",
-			"github_link": "https://github.com/JuandaGarcia/artistic-makeup"
+			"github_link": "https://github.com/JuandaGarcia/artistic-makeup",
+			"play_store": false,
+			"app_store": false
 		},
 		{
 			"id": "to-do-list",
@@ -75,7 +87,9 @@
 			"img_details": "https://juandagracia.com/img/to-do-details.png",
 			"type": "Web",
 			"link": false,
-			"github_link": "https://github.com/JuandaGarcia/ConstruccionSoftwareWeb"
+			"github_link": "https://github.com/JuandaGarcia/ConstruccionSoftwareWeb",
+			"play_store": false,
+			"app_store": false
 		}
 	],
 
@@ -87,9 +101,11 @@
 			"technologies": ["HTML5", "CSS3", "Javascript", "PHP", "MySQL"],
 			"img": "https://juandagracia.com/img/to-do.png",
 			"img_details": "https://juandagracia.com/img/to-do-details.png",
-			"type": "Web",
-			"link": false,
-			"github_link": "https://github.com/JuandaGarcia/ConstruccionSoftwareWeb"
+			"type": "Móvil",
+			"link": "https://github.com/JuandaGarcia/ConstruccionSoftwareWeb",
+			"github_link": "https://github.com/JuandaGarcia/ConstruccionSoftwareWeb",
+			"play_store": "https://github.com/JuandaGarcia/ConstruccionSoftwareWeb",
+			"app_store": "https://github.com/JuandaGarcia/ConstruccionSoftwareWeb"
 		}
 	]
 }
