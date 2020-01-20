@@ -1,26 +1,95 @@
 {
-	"web": {
-		"name": "Web",
-		"projects": [
-			{
-				"id": "to-do-list",
-				"name": "To-do list",
-				"description": "Descripción",
-				"technologies": ["HTML5", "CSS3", "Javascript", "PHP", "MySQL"],
-				"img": "img"
-			}
-		]
-	},
-	"movil": {
-		"name": "Móvil",
-		"projects": [
-			{
-				"id": "gottih",
-				"name": "Gottih",
-				"description": "Descripción",
-				"technologies": ["Unity", "C#", "Vuforia"],
-				"img": "https://avatars0.githubusercontent.com/u/39936759?s=460&v=4"
-			}
-		]
-	}
+	"web": [
+		{
+			"id": "juandagarcia",
+			"name": "JuandaGarcia.com",
+			"description": "Es un sitio web donde puedes encontrar gran parte de mis proyectos y del cual estoy muy orgulloso.",
+			"technologies": ["React", "PHP"],
+			"img": "https://juandagracia.com/img/juandagarcia.png",
+			"img_details": "https://juandagracia.com/img/juandagarcia-details.png",
+			"type": "Web",
+			"link": "https://juandagarcia.com",
+			"github_link": "https://github.com/JuandaGarcia/JuandaGarcia.com"
+		},
+		{
+			"id": "gottih",
+			"name": "Gottih",
+			"description": "Gottih.com es la tienda online de mi marca de camisetas.",
+			"technologies": ["Wordpress"],
+			"img": "https://juandagracia.com/img/gottih-web.png",
+			"img_details": "https://juandagracia.com/img/gottih-web-details.png",
+			"type": "Web",
+			"link": "https://gottih.com",
+			"github_link": false
+		},
+		{
+			"id": "platzi-badges",
+			"name": "Platzi Badges",
+			"description": "Platzi badges es un sitio web para gestionar los Badges del evento PlatziConf.",
+			"technologies": ["React"],
+			"img": "https://juandagracia.com/img/platzi-badges.png",
+			"img_details": "https://juandagracia.com/img/platzi-badges-details.png",
+			"type": "Web",
+			"link": false,
+			"github_link": "https://github.com/JuandaGarcia/platzi-badges"
+		},
+		{
+			"id": "rick-and-morty",
+			"name": "Rick and Morty Game",
+			"description": "Rick and Morty Game es un juego de memoria conectado con al API de Rick and Morty para traer los personajes.",
+			"technologies": ["HTML5", "CSS3", "Javascript"],
+			"img": "https://juandagracia.com/img/rick-and-morty.png",
+			"img_details": "https://juandagracia.com/img/rick-and-morty-details.png",
+			"type": "Web",
+			"link": false,
+			"github_link": "https://github.com/JuandaGarcia/MemoryGame"
+		},
+		{
+			"id": "eclectica",
+			"name": "Ecléctica",
+			"description": "Ecléctica es un sitio web sobre todo lo relacionado con el mundo de la moda.",
+			"technologies": ["HTML5", "CSS3", "PHP"],
+			"img": "https://juandagracia.com/img/eclectica.png",
+			"img_details": "https://juandagracia.com/img/eclectica-details.png",
+			"type": "Web",
+			"link": "http://eclecticaweb.000webhostapp.com/",
+			"github_link": "https://github.com/JuandaGarcia/eclectica"
+		},
+		{
+			"id": "artistic-makeup",
+			"name": "Artistic Makeup",
+			"description": "Artistic Makeup es un sitio web donde puedes encontrar noticias, categorías, fotos y contenido relacionado con el maquillaje.",
+			"technologies": ["HTML5", "CSS3"],
+			"img": "https://juandagracia.com/img/artistic-makeup.png",
+			"img_details": "https://juandagracia.com/img/artistic-makeup-datails.png",
+			"type": "Web",
+			"link": "http://artisticmakeup.000webhostapp.com/",
+			"github_link": "https://github.com/JuandaGarcia/artistic-makeup"
+		},
+		{
+			"id": "to-do-list",
+			"name": "To-do list",
+			"description": "To-do list es una sitio web donde puedes recupera tu claridad y tranquilidad sacando todas esas tareas de tu cabeza para ponerlas en tu lista de tareas sin importar dónde te encuentres.",
+			"technologies": ["HTML5", "CSS3", "Javascript", "PHP", "MySQL"],
+			"img": "https://juandagracia.com/img/to-do.png",
+			"img_details": "https://juandagracia.com/img/to-do-details.png",
+			"type": "Web",
+			"link": false,
+			"github_link": "https://github.com/JuandaGarcia/ConstruccionSoftwareWeb"
+		}
+	],
+
+	"movil": [
+		{
+			"id": "to-do-list",
+			"name": "To-do list",
+			"description": "To-do list es una sitio web donde puedes recupera tu claridad y tranquilidad sacando todas esas tareas de tu cabeza para ponerlas en tu lista de tareas sin importar dónde te encuentres.",
+			"technologies": ["HTML5", "CSS3", "Javascript", "PHP", "MySQL"],
+			"img": "https://juandagracia.com/img/to-do.png",
+			"img_details": "https://juandagracia.com/img/to-do-details.png",
+			"type": "Web",
+			"link": false,
+			"github_link": "https://github.com/JuandaGarcia/ConstruccionSoftwareWeb"
+		}
+	]
 }
