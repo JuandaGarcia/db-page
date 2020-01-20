@@ -110,7 +110,7 @@
 		{
 			"id": "edukids",
 			"name": "EduKids",
-			"description": "Edukids es una aplicación educativa para enseñar historia, matemáticas y español mediante ejercicios con realidad aumentada a niños de básica primaria. Este proyecto se pudo llevar a cabo gracias a las siguientes personas: Camilo Andrés Lozano Giraldo, Nedith Stefania Cortes Casquete, Jazmín Eliana Duran Manzano, Daniel Rodríguez Flórez,Fernando Guzmán Mejía, Juan David García Rincón.",
+			"description": "Edukids es una aplicación educativa para enseñar historia, matemáticas y español mediante ejercicios con realidad aumentada a niños de básica primaria. Este proyecto se pudo llevar a cabo gracias a las siguientes personas: Camilo Andrés Lozano Giraldo, Nedith Stefania Cortes Casquete, Jazmín Eliana Duran Manzano, Daniel Rodríguez Flórez, Fernando Guzmán Mejía, Juan David García Rincón.",
 			"technologies": ["Unity", "C#", "Vuforia"],
 			"img": "https://juandagracia.com/img/edukids.png",
 			"img_details": "https://juandagracia.com/img/edukids-details.png",
