@@ -2,7 +2,7 @@
 	"web": [
 		{
 			"id": "juandagarcia",
-			"name": "JuandaGarcia.com",
+			"name": "Juanda Garcia Portafolio",
 			"description": "Es un sitio web donde puedes encontrar gran parte de mis proyectos y del cual estoy muy orgulloso.",
 			"technologies": ["React", "PHP"],
 			"img": "https://juandagracia.com/img/juandagarcia.png",
